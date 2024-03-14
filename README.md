@@ -11,9 +11,9 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-#Attechments:
+# Attechments:
 
-##Desktop view
+## Desktop view
 ![image](https://github.com/yashvshah/sample-landing-page/assets/99712916/a568d7ee-81f9-494d-9bae-4ab4cb3c32a2)
 ![image](https://github.com/yashvshah/sample-landing-page/assets/99712916/f44749df-ca28-4999-94d8-9bb9dce22aff)
 ![image](https://github.com/yashvshah/sample-landing-page/assets/99712916/99b460fe-1098-42f7-9892-e99f6a0a988f)
@@ -22,7 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ![image](https://github.com/yashvshah/sample-landing-page/assets/99712916/1f0f60a7-960b-441f-a682-b4d2b00c56ab)
 ![image](https://github.com/yashvshah/sample-landing-page/assets/99712916/29292888-6c53-4c5d-9328-4807c1238443)
 
-##Mobile view
+## Mobile view
 
 
 ![image](https://github.com/yashvshah/sample-landing-page/assets/99712916/ab4b7fe8-afce-492b-b89f-4ef2081cf367)
